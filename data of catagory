@@ -1,0 +1,64 @@
+[ 
+{ 
+"id":1,
+"category":"All Flea & Tick Preventative",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/all-products/",
+"processed":1
+},
+{ 
+"id":2,
+"category":"Bayer Products",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/bayer/",
+"processed":1
+},
+{ 
+"id":3,
+"category":"Capstar & Capshield",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/capstar/",
+"processed":1
+},
+{ 
+"id":4,
+"category":"De-Wormers",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/wormer/",
+"processed":1
+},
+{ 
+"id":5,
+"category":"Fish Antibiotics",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/fish-antibiotics/",
+"processed":1
+},
+{ 
+"id":6,
+"category":"Frontline Plus & Gold",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/frontline/",
+"processed":1
+},
+{ 
+"id":7,
+"category":"Generic Flea & Tick Preventative",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/generics/",
+"processed":1
+},
+{ 
+"id":8,
+"category":"Grooming Supplies",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/shampoo/",
+"processed":1
+},
+{ 
+"id":9,
+"category":"Sale!",
+"sub_category":null,
+"page_url":"https://www.fleakillerguys.com/product-category/sale/",
+"processed":1
+}]
